@@ -25,10 +25,10 @@ This portfolio demonstrates my work readiness
 
 ### REFLECTION: STAR TECHNIQUE
 
-**Situation -
-**Task      -
-**Action    -
-**Result    -
+**Situation -**  
+**Task      -**  
+**Action    -**  
+**Result    -**  
 
 ---
 
@@ -40,10 +40,10 @@ This portfolio demonstrates my work readiness
 
 ### REFLECTION: STAR TECHNIQUE
 
-**Situation -
-**Task      -
-**Action    -
-**Result    -
+**Situation -**  
+**Task      -**  
+**Action    -**  
+**Result    -**  
 
 ---
 ## CREATE A CV
@@ -54,18 +54,23 @@ This portfolio demonstrates my work readiness
 
 ### REFLECTION: STAR TECHNIQUE
 
-**Situation -
-**Task      -
-**Action    -
-**Result    -
+**Situation -**  
+**Task      -**  
+**Action    -**  
+**Result    -**  
 
 ---
 ## CV SUBMISSION
+
 ### EVIDENCE
+
 ![image](https://github.com/user-attachments/assets/b7e001cd-1041-44d3-a2b0-9c6e589bb12c)
+
 ### REFLECTION: STAR TECHNIQUE
-**Situation -
-**Task      -
-**Action    -
-**Result    -
+
+**Situation -**  
+**Task      -**  
+**Action    -**  
+**Result    -**  
+  
 ---
