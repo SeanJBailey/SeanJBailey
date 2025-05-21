@@ -11,9 +11,9 @@ This portfolio demonstrates my work readiness
 ### REFLECTION: STAR TECHNIQUE
 
 **Situation -**  
-**Task      -**
-**Action    -**
-**Result    -**
+**Task      -**  
+**Action    -**  
+**Result    -**  
   
 ---
 
