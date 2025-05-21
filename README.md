@@ -5,7 +5,7 @@ This portfolio demonstrates my work readiness
 ### EVIDENCE
 ![image](https://github.com/user-attachments/assets/447cd956-96d9-4ef1-acc1-18fe420a3d7a)
 ### REFLECTION: STAR TECHNIQUE
-**Situation -
+**Situation - ssssss
 **Task      -
 **Action    -
 **Result    -
